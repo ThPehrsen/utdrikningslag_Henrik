@@ -73,7 +73,7 @@ Viktig for gokart:
 - [ ] Papptallerkener + plastbestikk
 - [ ] Servietter
 
-## Handleliste (kompakt)
+## Handleliste
 
 Fredag grill:
 - [ ] Grillpølser (ca. 40 stk)
@@ -84,7 +84,20 @@ Frokost lør/søn (10 pers):
 - [ ] Egg (30)
 - [ ] Bacon (8 pk)
 - [ ] Brød/rundstykker
-- [ ] Pålegg (ost + variert)
+- [ ] Gulost (700–900 g)
+- [ ] Brie / annen ost (300–400 g)
+- [ ] Skinke (400–500 g)
+- [ ] Salami (300–400 g)
+- [ ] Spekeskinke (200–300 g)
+- [ ] Smør (2 pakker)
+- [ ] Majones (1 tube/glass)
+- [ ] Leverpostei (1–2 bokser)
+- [ ] Syltetøy (1 glass)
+- [ ] Agurk (2 stk)
+- [ ] Tomat (4–5 stk)
+- [ ] Paprika (2–3 stk)
+- [ ] Brød (4–5 stk)
+- [ ] Rundstykker (15–20 stk)
 - [ ] Juice (3 L), melk (1,5 L), kaffe
 
 Lørdag lunsj:
