@@ -1,6 +1,6 @@
 ﻿# Henriks utdrikningslag 2026 🎉
 
-Kort, ryddig og mobilvennlig plan for helga.
+Plan for helgen
 
 ## Hurtigoversikt
 
