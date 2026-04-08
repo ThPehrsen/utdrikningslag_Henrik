@@ -22,7 +22,7 @@ Plan for helgen
 
 Viktig for gokart:
 - Ta med hansker
-- Lukkede sko er krav
+- Lukkede sko er påkrevd
 - Regn-/heldekkende klær anbefales
 
 ## Lørdag 18. april — Aktivitetsdag + fest
@@ -43,7 +43,7 @@ Viktig for gokart:
 
 ## Pakkeliste (personlig)
 
-- [ ] Klær for 3 dager (varme inneklær + uteklær)
+- [ ] Klær for 3 dager (varme uteklær + inneklær)
 - [ ] Jakke, lue, votter
 - [ ] Hansker til gokart
 - [ ] Regn-/heldekkende klær til gokart
