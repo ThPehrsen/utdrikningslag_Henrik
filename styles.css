@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   color-scheme: light;
   --bg: #f5f7fb;
   --card: #ffffff;
@@ -200,7 +200,7 @@ a {
   background: #fff;
   border-top: 1px solid var(--line);
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 2px;
   padding: 8px 6px calc(8px + env(safe-area-inset-bottom));
 }
