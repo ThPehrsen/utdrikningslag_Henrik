@@ -82,15 +82,14 @@ Fredag grill:
 
 Frokost lør/søn (10 pers):
 - [ ] Egg (30)
-- [ ] Bacon (8 pk)
-- [ ] Brød/rundstykker
+- [ ] Bacon (1 rull)
 - [ ] Gulost (700–900 g)
 - [ ] Brie / annen ost (300–400 g)
 - [ ] Skinke (400–500 g)
 - [ ] Salami (300–400 g)
 - [ ] Spekeskinke (200–300 g)
 - [ ] Smør (2 pakker)
-- [ ] Majones (1 tube/glass)
+- [ ] Majones (1 tube)
 - [ ] Leverpostei (1–2 bokser)
 - [ ] Syltetøy (1 glass)
 - [ ] Agurk (2 stk)
@@ -98,7 +97,8 @@ Frokost lør/søn (10 pers):
 - [ ] Paprika (2–3 stk)
 - [ ] Brød (4–5 stk)
 - [ ] Rundstykker (15–20 stk)
-- [ ] Juice (3 L), melk (1,5 L), kaffe
+- [ ] Juice (3 L), melk (1,5 L),
+- [ ] kaffe (1pk)
 
 Lørdag lunsj:
 - [ ] Koteletter (10–15)
