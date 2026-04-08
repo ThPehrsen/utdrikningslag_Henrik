@@ -51,6 +51,7 @@ Viktig for gokart:
 - [ ] Badetøy + håndkle
 - [ ] Toalettsaker + medisiner
 - [ ] Lader + powerbank
+- [ ] Sengetøy
 
 ## Felles utstyr (arrangør)
 
