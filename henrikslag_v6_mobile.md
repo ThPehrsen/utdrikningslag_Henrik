@@ -28,7 +28,7 @@ Viktig for gokart:
 ## Lørdag 18. april — Aktivitetsdag + fest
 
 - 09:00 Stor frokost
-- 10:30 Olympiske leker (quiz, leker, poeng)
+- 10:30 Ølympiske leker (quiz, leker, poeng)
 - 13:00 Lunsj: koteletter + potetsalat
 - 14:30 Fri/badstue
 - 17:30 Festmiddag: pulled pork sliders
