@@ -53,7 +53,7 @@ Viktig for gokart:
 - [ ] Lader + powerbank
 - [ ] Sengetøy
 
-## Felles utstyr (arrangør)
+## Felles utstyr (Thomas P.)
 
 - [ ] Høyttaler (fulladet)
 - [ ] Brettspill/kortspill/drikkespill
@@ -62,6 +62,8 @@ Viktig for gokart:
 - [ ] Ekstra søppelposer
 - [ ] Fyrstikker/lighter
 - [ ] Førstehjelp
+- [ ] Dopapir
+- [ ] Grillstarter?
 
 ## Grillpakke til ABC Racing
 
@@ -104,3 +106,11 @@ Snacks og drikke:
 - [ ] Ost/kjeks + dip/grønnsaker
 - [ ] Brus (24–30), sportsdrikk (10), juice (2–3 L)
 - [ ] Øl felles (40 bokser)
+
+Diverse
+- [ ] Kull/briketter (ABC og lunsj)
+- [ ] Tennveske
+- [ ] Papptalerkner
+- [ ] Engangsbestikk
+- [ ] Søppelposer
+- [ ] Dopapir 
