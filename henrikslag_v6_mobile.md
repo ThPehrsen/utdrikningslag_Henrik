@@ -110,8 +110,13 @@ Lørdag middag:
 - [ ] Svinenakke/bog (ca. 5 kg)
 - [ ] BBQ-saus (3–4 flasker)
 - [ ] Brioche slider buns (30–40)
-- [ ] Kål (2), gulrøtter (4–5), majones
-- [ ] Eddik/sitron, sukker, smør
+- [ ] hodeKål (2),
+- [ ] gulrøtter (4–5)
+- [ ] Sitron (1)
+- [ ] Majones (1)
+- [ ] Rømme (1)
+- [ ] Sukker
+- [ ] Smør
 
 Snacks og drikke:
 - [ ] Chips (6 poser)
