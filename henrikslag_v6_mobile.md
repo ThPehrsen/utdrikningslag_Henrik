@@ -67,6 +67,7 @@ Viktig for gokart:
 - [ ] Førstehjelp
 - [ ] Dopapir
 - [ ] Grillstarter?
+- [ ] Liten båltønne + øks og sag
 
 ## Grillpakke til ABC Racing
 
@@ -136,4 +137,5 @@ Diverse
 - [ ] (Utgår) Engangsbestikk
 - [x] Søppelposer
 - [ ] Dopapir
-- [ ] Våtservietter 
+- [ ] Våtservietter
+- [ ] Ved til båltønne?
