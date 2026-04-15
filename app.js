@@ -1,5 +1,5 @@
 const MARKDOWN_FILE = "henrikslag_v6_mobile.md";
-const STORAGE_KEY = "henrikslag-checks-v2";
+const STORAGE_KEY = "henrikslag-checks-v3";
 let parsedEvents = [];
 
 function formatCountdown(milliseconds) {
