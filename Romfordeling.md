@@ -64,7 +64,3 @@
 - Alle tar med:
   - Sengetøy (dyne/pute)
   - Riktig laken iht. lista over
-
-- Hvis du er usikker → ta med 90 cm laken (safe choice)
-
-- Henrik tar med stort laken til hovedsenga
