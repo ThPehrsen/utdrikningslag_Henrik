@@ -54,7 +54,7 @@ Viktig for gokart:
 - [ ] Badetøy + håndkle
 - [ ] Toalettsaker + medisiner
 - [ ] Lader + powerbank
-- [ ] [Sengetøy](romfordeling.html)
+- [ ] [Sengetøy](romfordeling.html) Sjekk liste for hvilket laken du trenger
 
 ## Felles utstyr (Thomas P.)
 
