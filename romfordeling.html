@@ -1,0 +1,59 @@
+﻿<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Romfordeling for Henrikslag 2026">
+  <title>Romfordeling • Henrikslag 2026</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero" id="top">
+    <p class="eyebrow">Utdrikningslag</p>
+    <h1>Romfordeling 🛏️</h1>
+    <p class="subtitle">Hvem sover hvor + hvilket laken du tar med</p>
+  </header>
+
+  <main class="container">
+    <section class="card" id="content">
+      <h2>Romfordeling</h2>
+      <article id="markdownContent" class="markdown-body">
+        <p>Laster inn romfordeling…</p>
+      </article>
+    </section>
+
+    <section class="card" id="actions">
+      <h2>Handlinger</h2>
+      <p><a href="index.html">← Tilbake til planen</a></p>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Hurtignavigasjon">
+    <a href="index.html">Plan</a>
+    <a href="#content">Romfordeling</a>
+    <a href="#actions">Tilbake</a>
+  </nav>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    (async function renderRomfordeling() {
+      const markdownRoot = document.getElementById("markdownContent");
+      if (!markdownRoot) {
+        return;
+      }
+
+      try {
+        const response = await fetch("Romfordeling.md", { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("Kunne ikke laste Romfordeling.md");
+        }
+
+        const markdownText = await response.text();
+        markdownRoot.innerHTML = marked.parse(markdownText);
+      } catch (error) {
+        markdownRoot.innerHTML = "<p>Kunne ikke laste romfordeling akkurat nå.</p>";
+      }
+    })();
+  </script>
+</body>
+</html>
