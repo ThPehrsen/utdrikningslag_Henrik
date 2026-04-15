@@ -11,13 +11,16 @@ Plan for helgen
 ## Fredag 17. april — Reise + gokart
 
 - 11:00 Møt i Moss
-- 12:00 Avreise mot Hønefoss - Resterende plukkes opp i Oslo
-- 14:00 Oppmøte hos ABC Racing (30 min før)
-- 14:30 Grand Prix Super (3 kval + finale)
-- 16:15 Pølsegrilling hos ABC Racing
-- 17:30 Avreise mot hytta i Hafjell (ca. 2 t)
-- 19:30 Ankomst hytte
-- 20:00 Rolig kveld: snacks, kortspill, brettspill
+- 11:15 Avreise mot Hønefoss - Resterende plukkes opp i Oslo
+- 13:30 Henrik er ferdig på Gardermoen
+- 13:45 “Avskjæring” Kløfta
+- 14:00 Avreise mot ABC Racing
+- 15:00 - 15:15 Oppmøte hos ABC Racing (30 min før)
+- 16:00 Grand Prix Super (3 kval + finale)
+- 17:15 Pølsegrilling hos ABC Racing
+- 18:00 Avreise mot hytta i Hafjell (ca. 2 t)
+- 20:00 Ankomst hytte
+- 20:30 Rolig kveld: snacks, kortspill, brettspill
 - 21:00 Badstue (frivillig)
 
 Viktig for gokart:
@@ -132,4 +135,5 @@ Diverse
 - [ ] (Utgår) Papptalerkner
 - [ ] (Utgår) Engangsbestikk
 - [x] Søppelposer
-- [ ] Dopapir 
+- [ ] Dopapir
+- [ ] Våtservietter 
