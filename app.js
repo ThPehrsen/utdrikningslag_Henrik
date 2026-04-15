@@ -1,4 +1,4 @@
-﻿const MARKDOWN_FILE = "henrikslag_v6_mobile.md";
+const MARKDOWN_FILE = "henrikslag_v6_mobile.md";
 const STORAGE_KEY = "henrikslag-checks-v2";
 let parsedEvents = [];
 
@@ -118,7 +118,7 @@ function loadChecks() {
     const id = `check-${hashText(itemText)}-${index}`;
     box.dataset.id = id;
 
-    box.checked = Boolean(saved[id]);
+    box.checked = id in saved ? Boolean(saved[id]) : box.checked;
     box.addEventListener("change", () => {
       saved[id] = box.checked;
       localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
