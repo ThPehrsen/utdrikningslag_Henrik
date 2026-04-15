@@ -107,9 +107,21 @@ function decorateMarkdownContent() {
   });
 }
 
-function loadChecks() {
+function getMarkdownCheckStates(markdownText) {
+  const states = [];
+  for (const line of markdownText.split(/\r?\n/)) {
+    const match = line.match(/^-\s*\[(x| )\]/i);
+    if (match) {
+      states.push(match[1].toLowerCase() === "x");
+    }
+  }
+  return states;
+}
+
+function loadChecks(markdownText) {
   const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
   const boxes = document.querySelectorAll("#markdownContent input[type='checkbox']");
+  const defaultStates = getMarkdownCheckStates(markdownText);
 
   boxes.forEach((box, index) => {
     box.removeAttribute("disabled");
@@ -118,7 +130,8 @@ function loadChecks() {
     const id = `check-${hashText(itemText)}-${index}`;
     box.dataset.id = id;
 
-    box.checked = id in saved ? Boolean(saved[id]) : box.checked;
+    const defaultChecked = defaultStates[index] ?? false;
+    box.checked = id in saved ? Boolean(saved[id]) : defaultChecked;
     box.addEventListener("change", () => {
       saved[id] = box.checked;
       localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
@@ -168,7 +181,7 @@ async function renderMarkdown() {
 
     parsedEvents = parseEventsFromMarkdown(markdownText);
     decorateMarkdownContent();
-    loadChecks();
+    loadChecks(markdownText);
     setupResetButton();
     updateNextEvent();
     setInterval(updateNextEvent, 30000);
