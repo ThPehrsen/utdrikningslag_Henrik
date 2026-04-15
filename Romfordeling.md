@@ -39,10 +39,10 @@
 - Daniel  
 
 **Ta med:**
-- Anders: 1 × 90 cm laken  
-- Marius: 1 × 90 cm laken  
-- Jørgen: 1 × 90 cm laken  
-- Daniel: 1 × 90 cm laken  
+- Anders: 1 × laken til dobbeltseng 
+- Marius:   
+- Jørgen: 1 × laken til dobbeltseng  
+- Daniel:  
 
 ---
 
