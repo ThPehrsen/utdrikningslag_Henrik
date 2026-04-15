@@ -70,65 +70,66 @@ Viktig for gokart:
 - [ ] Grillkull (3–4 kg)
 - [ ] Tennvæske/tennbriketter
 - [ ] Grillklype
-- [ ] Papptallerkener + plastbestikk
-- [ ] Servietter
+- [ ] (Utgår) Papptallerkener + plastbestikk
+- [ ] Våtservietter
 
 ## Handleliste
 
 Fredag grill:
 - [x] Grillpølser (ca. 40 stk)
-- [ ] Lomper/pølsebrød (ca. 40 stk)
-- [ ] Ketchup + sennep + løk
+- [ ] Lomper
+- [x] pølsebrød (ca. 40 stk)
+- [x] Ketchup + sennep + løk
 
 Frokost lør/søn (10 pers):
-- [ ] Egg (30)
-- [ ] Bacon (1 rull)
-- [ ] Gulost (700–900 g)
-- [ ] Brie / annen ost (300–400 g)
-- [ ] Skinke (400–500 g)
-- [ ] Salami (300–400 g)
-- [ ] Spekeskinke (200–300 g)
-- [ ] Smør (2 pakker)
+- [x] Egg (30)
+- [x] Bacon (1 rull)
+- [x] Gulost (700–900 g)
+- [ ] (Utgår) Brie / annen ost (300–400 g)
+- [x] Skinke (400–500 g)
+- [x] Salami (300–400 g)
+- [x] Spekeskinke (200–300 g)
+- [x] Smør (1 pakke)
 - [ ] Majones (1 tube)
-- [ ] Leverpostei (1–2 bokser)
-- [ ] Syltetøy (1 glass)
+- [x] Leverpostei (1–2 bokser)
+- [x] Syltetøy (1 glass)
 - [ ] Agurk (2 stk)
 - [ ] Tomat (4–5 stk)
 - [ ] Paprika (2–3 stk)
 - [ ] Brød (4–5 stk)
-- [ ] Rundstykker (15–20 stk)
-- [ ] Juice (3 L), melk (1,5 L),
-- [ ] kaffe (1pk)
+- [x] Rundstykker (15–20 stk)
+- [x] Juice (3 L), melk (1,5 L),
+- [x] kaffe (1pk)
 
 Lørdag lunsj:
-- [ ] Koteletter (10–15)
-- [ ] Potetsalat (2–2,5 kg)
+- [x] Koteletter (10–15)
+- [x] Potetsalat (2–2,5 kg)
 - [ ] Brød/focaccia (3)
 - [ ] Grønn salat + smør
 
 Lørdag middag:
-- [ ] Svinenakke/bog (ca. 5 kg)
-- [ ] BBQ-saus (3–4 flasker)
-- [ ] Brioche slider buns (30–40)
+- [x] Svinenakke/bog (ca. 5 kg)
+- [x] BBQ-saus (3–4 flasker)
+- [x] Brioche slider buns (30–40)
 - [ ] hodeKål (2),
 - [ ] gulrøtter (4–5)
 - [ ] Sitron (1)
-- [ ] Majones (1)
-- [ ] Rømme (1)
+- [x] Majones (1)
+- [x] Rømme (1)
 - [ ] Sukker
 - [ ] Smør
 
 Snacks og drikke:
-- [ ] Chips (6 poser)
-- [ ] Nøtter/sjokolade
-- [ ] Ost/kjeks + dip/grønnsaker
-- [ ] Brus (24–30), sportsdrikk (10), juice (2–3 L)
-- [ ] Øl felles (40 bokser)
+- [x] Chips (6 poser)
+- [x] Nøtter/sjokolade
+- [ ] (Utgår) Ost/kjeks + dip/grønnsaker
+- [x] Brus (3 brett), Monster (1 brett)
+- [x] Øl felles (72 0,33l bokser)
 
 Diverse
 - [ ] Kull/briketter (ABC og lunsj)
 - [ ] Tennveske
-- [ ] Papptalerkner
-- [ ] Engangsbestikk
-- [ ] Søppelposer
+- [ ] (Utgår) Papptalerkner
+- [ ] (Utgår) Engangsbestikk
+- [x] Søppelposer
 - [ ] Dopapir 
