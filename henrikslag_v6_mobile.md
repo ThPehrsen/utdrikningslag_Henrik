@@ -76,7 +76,7 @@ Viktig for gokart:
 ## Handleliste
 
 Fredag grill:
-- [ ] Grillpølser (ca. 40 stk)
+- [x] Grillpølser (ca. 40 stk)
 - [ ] Lomper/pølsebrød (ca. 40 stk)
 - [ ] Ketchup + sennep + løk
 
