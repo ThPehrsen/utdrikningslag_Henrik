@@ -58,20 +58,20 @@ Viktig for gokart:
 
 ## Felles utstyr (Thomas P.)
 
-- [ ] Høyttaler (fulladet)
+- [x] Høyttaler (fulladet)
 - [ ] Brettspill/kortspill/drikkespill
-- [ ] Quiz-ark om Henrik
-- [ ] Blindtest-skjema (10 ark) + penner
-- [ ] Ekstra søppelposer
-- [ ] Fyrstikker/lighter
-- [ ] Førstehjelp
-- [ ] Dopapir
+- [x] Quiz-ark om Henrik
+- [x] Blindtest-skjema (10 ark) + penner
+- [x] Ekstra søppelposer
+- [x] Fyrstikker/lighter
+- [x] Førstehjelp
+- [x] Dopapir
 - [ ] Grillstarter?
-- [ ] Liten båltønne + øks og sag
+- [x] Liten båltønne + øks og sag
 
 ## Grillpakke til ABC Racing
 
-- [ ] Grillkull (3–4 kg)
+- [x] Grillkull (3–4 kg)
 - [ ] Tennvæske/tennbriketter
 - [ ] Grillklype
 - [ ] (Utgår) Papptallerkener + plastbestikk
@@ -94,13 +94,13 @@ Frokost lør/søn (10 pers):
 - [x] Salami (300–400 g)
 - [x] Spekeskinke (200–300 g)
 - [x] Smør (1 pakke)
-- [ ] Majones (1 tube)
+- [x] Majones (1 tube)
 - [x] Leverpostei (1–2 bokser)
 - [x] Syltetøy (1 glass)
-- [ ] Agurk (2 stk)
-- [ ] Tomat (4–5 stk)
-- [ ] Paprika (2–3 stk)
-- [ ] Brød (4–5 stk)
+- [x] Agurk (2 stk)
+- [x] Tomat (4–5 stk)
+- [x] Paprika (2–3 stk)
+- [x] Brød (4–5 stk)
 - [x] Rundstykker (15–20 stk)
 - [x] Juice (3 L), melk (1,5 L),
 - [x] kaffe (1pk)
@@ -115,13 +115,11 @@ Lørdag middag:
 - [x] Svinenakke/bog (ca. 5 kg)
 - [x] BBQ-saus (3–4 flasker)
 - [x] Brioche slider buns (30–40)
-- [ ] hodeKål (2),
-- [ ] gulrøtter (4–5)
-- [ ] Sitron (1)
+- [x] hodeKål (2),
+- [x] gulrøtter (4–5)
+- [x] Sitron (1)
 - [x] Majones (1)
 - [x] Rømme (1)
-- [ ] Sukker
-- [ ] Smør
 
 Snacks og drikke:
 - [x] Chips (6 poser)
@@ -136,6 +134,6 @@ Diverse
 - [ ] (Utgår) Papptalerkner
 - [ ] (Utgår) Engangsbestikk
 - [x] Søppelposer
-- [ ] Dopapir
+- [x] Dopapir
 - [ ] Våtservietter
-- [ ] Ved til båltønne?
+- [x] Ved til båltønne?
